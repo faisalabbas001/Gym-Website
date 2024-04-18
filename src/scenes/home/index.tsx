@@ -5,7 +5,7 @@ import AnchorLink from "react-anchor-link-smooth-scroll";
 import { motion } from "framer-motion";
 
 import HomePageText from "@/assets/HomePageText.png";
-import HomepageGraphic from "@/assets/HomePageGraphic1.png";
+import HomepageGraphic from "@/assets/homeset.png";
 import SponsorRedBull from "@/assets/SponsorRedBull.png";
 import SponsorForbes from "@/assets/SponsorForbes.png";
 import SponsorFurtune from "@/assets/SponsorFortune.png";
