@@ -9,7 +9,7 @@ import HomepageGraphic from "@/assets/homeset.png";
 import SponsorRedBull from "@/assets/SponsorRedBull.png";
 import SponsorForbes from "@/assets/SponsorForbes.png";
 import SponsorFurtune from "@/assets/SponsorFortune.png";
-
+import HomePage from "@/assets/HomePageGraphic1.png"
 type Props = {
   setSelectedPage: (value: Selectedpage) => void;
 };
@@ -69,7 +69,7 @@ const Home = ({ setSelectedPage }: Props) => {
         </div>
         {/* image-header */}
         <div className="flex basis-3/5 justify-center md:z-10 md:ml-40 md:mt-16 md:justify-items-end">
-          <img src={HomepageGraphic} alt="homepage-graphic" />
+          <img src={HomePage} alt="homepage-graphic" />
         </div>
       </motion.div>
 
