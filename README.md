@@ -17,10 +17,51 @@ Get Started
 -> npm i react-icons
 -> npm run dev
 
-demo 
+check that the demo pics 
+
+![pic1](https://github.com/user-attachments/assets/908eb623-c572-4004-a33f-cd5dad7142d2)
+
+
+second page is 
+
+![pic2](https://github.com/user-attachments/assets/dd496295-96d7-4d60-9697-88051fed1a7b)
+
+
+third page is 
+
+![pic3](https://github.com/user-attachments/assets/7a29f1fe-e593-4cc5-a0b8-796271964b0f)
+
+
+forth page is 
+
+![pic4](https://github.com/user-attachments/assets/1070693a-6039-467f-a3fd-f8b025cd6cbe)
+
+the footer page is 
+
+
+![pic5](https://github.com/user-attachments/assets/489d399e-b218-45f8-ac28-668c7a4477ee)
 
 
 
+in Mobile Responsive is ->
 
+
+![mo1](https://github.com/user-attachments/assets/7a24604a-ff76-4d1e-8c62-0291b667d35b)
+
+
+second page is 
+
+
+![mo2](https://github.com/user-attachments/assets/ec44a0b2-1264-43a0-95c6-bd545dcca0e3)
+
+
+
+third page is 
+
+![mo3](https://github.com/user-attachments/assets/2f1529c6-3e8f-47c3-9c05-03bfdc65b943)
+
+
+
+Check That The DEMO Video is ->
 https://github.com/faisalabbas001/Gym-Website/assets/167535154/97dbcbb5-18dc-421f-8e51-b46f4f1dd46d
 
